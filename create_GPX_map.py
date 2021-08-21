@@ -5,7 +5,7 @@ import os
 import time
 from folium import plugins
 
-init_coordinates = [48.205, 17.11]
+init_coordinates = [48.205, 17.10]
 
 m = folium.Map(location=init_coordinates, zoom_start=12, tiles="Stamen Terrain")
 test_mark = '<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1250"></head>'
