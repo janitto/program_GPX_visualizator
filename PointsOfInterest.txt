@@ -1,0 +1,11 @@
+Rázcestie Pekná cesta/Biely kríž/Kamzík/Železná studienka;48.218280;17.111321
+Biely kríž;48.248239;17.143933
+Rázcestie Kaèín/U Slivu/Železná studienka;48.216004;17.086341
+Malý Slavín;48.234266;17.103382
+Vypálenisko;48.229330;17.123056
+Kamzík;48.182739;17.098757
+Pekná cesta - zaèiatok;48.198721;17.134918
+Ahoj - zaèiatok;48.172820;17.122753
+Raèa - cesta na Biely kríž;48.214118;17.152183
+Hrubá pleš;48.213679;17.055992
+Železná studienka;48.179501;17.072768
