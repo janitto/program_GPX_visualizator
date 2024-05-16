@@ -8,4 +8,4 @@ Pekná cesta - zaèiatok;48.198721;17.134918
 Ahoj - zaèiatok;48.172820;17.122753
 Raèa - cesta na Biely kríž;48.214118;17.152183
 Hrubá pleš;48.213679;17.055992
-Železná studienka;48.179501;17.072768
+Železièná studienka;48.179501;17.072768
